@@ -52,9 +52,4 @@
 <p align="center"><a href="https://github.com/GuraCans"><img src="https://github-readme-stats.vercel.app/api?username=GuraCans&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/GuraCans"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuraCans&theme=radical&layout=compact"></a></p> 
 
-------    
- 
-### Repo Stats 
-
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=GuraCans&repo=hmm&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=GuraCans&repo=XchillDs.github.io&theme=dark)
+------
