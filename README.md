@@ -41,7 +41,7 @@
 
 - Nick Name : LiaaCans
 - Type : Bedrock Edition
-- Favorit Server :
+- Favorit Server : F Fantasy
 - IP : p9.justshop.host
 - PORT  : 25557
 
