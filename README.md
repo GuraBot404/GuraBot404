@@ -49,7 +49,7 @@
 
 ### Github Stats 
 
-<p align="center"><a href="https://github.com/GuraCans"><img src="https://github-readme-stats.vercel.app/api?username=GuraCans&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/GuraCans"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuraCans&theme=radical&layout=compact"></a></p> 
+<p align="center"><a href="https://github.com/GuraBot404"><img src="https://github-readme-stats.vercel.app/api?username=GuraBot404&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/GuraBot404"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuraBot404&theme=radical&layout=compact"></a></p> 
 
 ------
