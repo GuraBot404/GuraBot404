@@ -1,6 +1,6 @@
-<h1 align="center">Hiiii! <img src="https://github.com/GuraCans/gif/blob/main/gif.gif" width="39px" alt=""><br></h1>
+<h1 align="center">Hiiii! <img src="https://github.com/GuraBoy404/gif/blob/main/gif.gif" width="39px" alt=""><br></h1>
 <p align="center">
-<img align="center" height="auto" src="https://github.com/GuraCans/gif/blob/main/83c51c0e7a340e6b3d30de2e9e2a1393.gif"/>
+<img align="center" height="auto" src="https://github.com/GuraBot404/gif/blob/main/83c51c0e7a340e6b3d30de2e9e2a1393.gif"/>
 
 <p align="center">
 
