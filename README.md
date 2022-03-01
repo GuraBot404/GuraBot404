@@ -4,7 +4,7 @@
 
 <p align="center">
 
-- My name is Lia
+- My name is ルディ
 - I was born on Juni 25, 2007
 - My Hobby Playing Game
 - I'm glad you got to know me 😆
