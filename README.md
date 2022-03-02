@@ -1,4 +1,4 @@
-<h1 align="center">Hiiii! <img src="https://github.com/Hotaro9015/gif/blob/main/hyouka-oreki.gif" width="45px" alt=""><br></h1>
+<h1 align="center">Hiii!! <img src="https://github.com/Hotaro9015/gif/blob/main/hyouka-oreki.gif" width="45px" alt=""><br></h1>
 <p align="center">
 <img align="center" height="auto" src="https://github.com/Hotaro9015/gif/blob/main/CreepsyBoi.gif"/>
 
