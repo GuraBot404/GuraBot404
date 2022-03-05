@@ -15,4 +15,5 @@
 <p align="center">
   <a href="https://discord.com/users/907169033764356097"><img src="https://img.shields.io/badge/Discord-E4405F?style=for-the-badge&logo=discord&logoColor=white"/> 
   <a href="https://wa.me/6285703155153"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://open.spotify.com/user/31rz57wmdp4pn533xfjrik3p6pxu?si=vSqWBhygQNmybN99ROgAuw&utm_source=copy-link"><img src="https://img.shields.io/badge/Spotify-25D366?style=for-the-badge&logo=spotify&logoColor=white" />
 <p align="center">
