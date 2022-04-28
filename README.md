@@ -13,8 +13,7 @@
 
 ### My Projects
 <p align="center">
-  <a href="https://discord.com/api/oauth2/authorize?client_id=937894810738630686&permissions=0&scope=bot%20applications.commands"><img src="https://img.shields.io/badge/Nezuko Music-E4405F?style=for-the-badge&logo=discord&logoColor=white"/> 
-  <a href="https://discord.com/api/oauth2/authorize?client_id=907210044079214612&permissions=8&scope=bot%20applications.commands"><img src="https://img.shields.io/badge/Nezuko Lite-25D366?style=for-the-badge&logo=discord&logoColor=white" />
+<a href="https://discordbotlist.com/bots/937894810738630686"><img src="https://discordbotlist.com/api/v1/bots/937894810738630686/widget"></a>
 
 <p align="center">
 
